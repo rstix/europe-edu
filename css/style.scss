@@ -1,0 +1,13 @@
+@import 'scss/variables';
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,300;1,400&display=swap');
+
+body{
+  // background-color: $darkBlue;
+  font-family: 'Lato', sans-serif;
+  color: $pink;
+
+  *{
+    color: $white;
+  }
+}
